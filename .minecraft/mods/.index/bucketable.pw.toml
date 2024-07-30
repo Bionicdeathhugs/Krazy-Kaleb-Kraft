@@ -1,0 +1,13 @@
+filename = 'bucketable-3.2.jar'
+name = 'Bucketable'
+side = 'both'
+
+[download]
+hash = 'bc315c0033b3504ab2ea9b7449315f5d2a3ba4b5358d31b79edde9e856278d3fec7828d976232da31447310d4688e78add13f2ffa849e5ebfa8a7f9a611de324'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/liI36we9/versions/GR8IrPhh/bucketable-3.2.jar'
+
+[update.modrinth]
+mod-id = 'liI36we9'
+version = 'GR8IrPhh'

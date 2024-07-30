@@ -1,0 +1,13 @@
+filename = 'xenon-0.3.19+mc1.20.1.jar'
+name = 'Xenon'
+side = 'client'
+
+[download]
+hash = '6b9f3b7d28d28ad7826554de5876a9aca6cb2ee233aeec0db24f4cdd300b5d57d2b50d5424517f14f1685a158bce76549d1d4212dfb2f22935c4abaeece73789'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aWDwN8NN/versions/OPpHkcLC/xenon-0.3.19%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'aWDwN8NN'
+version = 'OPpHkcLC'

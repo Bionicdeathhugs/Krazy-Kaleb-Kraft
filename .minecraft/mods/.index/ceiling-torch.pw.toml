@@ -1,0 +1,13 @@
+filename = 'ceilingtorch-1.20.1-1.30.jar'
+name = 'Ceiling Torch'
+side = 'both'
+
+[download]
+hash = 'e7b62e90574220ddaa919b8e895fd1f88e477c263fd98186a96833e66be17105ceaa413dc47287e78030d8374411392b2826520d7b886f29e762d0e544b2430d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V1XQ9Kbq/versions/6kDEpGix/ceilingtorch-1.20.1-1.30.jar'
+
+[update.modrinth]
+mod-id = 'V1XQ9Kbq'
+version = '6kDEpGix'

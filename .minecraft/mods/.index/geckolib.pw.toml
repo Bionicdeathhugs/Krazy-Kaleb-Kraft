@@ -1,0 +1,13 @@
+filename = 'geckolib-neoforge-1.20.1-4.4.7.jar'
+name = 'GeckoLib'
+side = 'both'
+
+[download]
+hash = '11cf7414f0466abe3315c41dbac63b6bad523984'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5460312
+project-id = 388172

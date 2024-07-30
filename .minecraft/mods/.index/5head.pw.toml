@@ -1,0 +1,13 @@
+filename = 'FiveHead-1.20.1-2.2.1.jar'
+name = 'FiveHead'
+side = 'both'
+
+[download]
+hash = '9c961212ac0451b17752eb93f91e19c54ef07aa6b49144afe8cfa1ac0a07760ba9f8fad3f7a53c97c4d342f744bc31babb39f01d766e311f9209b4f2b368f967'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2n7aYFjU/versions/uvAPm6d7/FiveHead-1.20.1-2.2.1.jar'
+
+[update.modrinth]
+mod-id = '2n7aYFjU'
+version = 'uvAPm6d7'
